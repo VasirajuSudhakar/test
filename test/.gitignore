@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.class
+build/
+conf/build
+*action.xml
+.DS_Store
+/out
+*/out
