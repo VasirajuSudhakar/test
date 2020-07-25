@@ -12,7 +12,7 @@ public class TestOne {
     public void callM(){
         sop("print!");
         sopl("");
-        sopl("printing!!!!");
+        sopl("printing!!!!T");
     }
 
     private void sop(Object o){
